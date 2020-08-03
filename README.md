@@ -1,11 +1,4 @@
-# 01-Intro-to-python
-An introduction and review of python, numpy, and other programming tools and concepts
-
-## Useful Links
-
-1. Python Like You Mean It (PLYMI)
-   1. [PLYMI Homepage](https://www.pythonlikeyoumeanit.com/)
-   2. [GitHub hosted source](https://github.com/rsokl/Learning_Python)
+# 03-Intro-to-GIS
 
 ## Distribution Statement
 
